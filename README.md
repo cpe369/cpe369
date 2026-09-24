@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Ole Bolle Troll](./20251128_153105.jpg)
 
 ## I like building things that move, compute, respond, and occasionally fly.
 
