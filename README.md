@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **cpe369/cpe369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## I like building things that move, compute, respond, and occasionally fly.
+
+I'm an embedded software engineer, private pilot, and tinkerer interested in the space where **software, electronics, hardware, and aviation** come together.
+Some projects are experiments. Some may become products. Most start with a simple question:
+
+**“I wonder if I can build that.”**
